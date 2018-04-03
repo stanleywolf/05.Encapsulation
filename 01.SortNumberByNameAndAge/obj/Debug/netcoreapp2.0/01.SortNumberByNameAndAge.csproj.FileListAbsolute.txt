@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\obj\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\obj\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\obj\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\obj\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\bin\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\bin\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\bin\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\bin\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\bin\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\obj\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\05.Encapsulation\01.SortNumberByNameAndAge\obj\Debug\netcoreapp2.0\01.SortNumberByNameAndAge.pdb
